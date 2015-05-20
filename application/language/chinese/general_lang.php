@@ -1,4 +1,7 @@
 <?php
+$lang['home']			= "首页";
+$lang['about us']			= "关于我们";
+$lang['company history']			= "公司历史";
 $lang['required_error']			= "请输入";
 $lang['uploadimage']			= "上传图片";
 $lang['addImg']					= "添加图片";

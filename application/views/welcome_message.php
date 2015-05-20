@@ -92,9 +92,7 @@
 <div class="row">
 	<div class="small-12 medium-8 large-8 column" id="content">	
 			       <h2>Welcome</h2>
-	       <p>Intelsius is a forward-thinking company that offers a comprehensive and innovative range of temperature controlled packaging solutions to meet the unique and demanding challenges of the global cold chain and life sciences industry.</p>
-<p>We pride ourselves in creating intelligent packaging that is environmentally sustainable and regulatory compliant.</p>
-<p>Patient safety is always at the forefront of our product development and ensuring our customers&#8217; products and samples arrive at their destination with their integrity intact is paramount.</p>
+	       <p>欢迎</p>
 			</div>
 
 	<div class="small-12 medium-4 large-4 column">
@@ -141,43 +139,14 @@
 <!-- Begin News section -->
 	<div id="news">
 		<div class="small-12 medium-6 large-6 column">
-			<h2><a href=http://intelsius.com/category/news/>Latest News</a></h2>				    <strong>Monday, April 13, 2015</strong> <br>
-				    <p>	
-				    	INTELSIUS  CHINA, at the Cold Chain China Conference in Shanghai<br>
-				    	<a href="http://intelsius.com/intelsius-china-at-the-cold-chain-china-conference-in-shanghai" rel="bookmark" title="Permanent Link to INTELSIUS  CHINA, at the Cold Chain China Conference in Shanghai"><strong>More...</strong></a>
-				    </p>
-				    				    <strong>Monday, February 2, 2015</strong> <br>
-				    <p>	
-				    	Intelsius Discusses In-Country Distribution  At IQPC Cool Chain Europe<br>
-				    	<a href="http://intelsius.com/intelsius-discusses-in-country-distribution-at-iqpc-cool-chain-europe" rel="bookmark" title="Permanent Link to Intelsius Discusses In-Country Distribution  At IQPC Cool Chain Europe"><strong>More...</strong></a>
-				    </p>
-				    				    <strong>Monday, February 2, 2015</strong> <br>
-				    <p>	
-				    	Intelsius Brings Cavalier Logistics On Board as  First North American Intelsius Qualified Partner<br>
-				    	<a href="http://intelsius.com/intelsius-brings-cavalier-logistics-on-board-as-first-north-american-intelsius-qualified-partner" rel="bookmark" title="Permanent Link to Intelsius Brings Cavalier Logistics On Board as  First North American Intelsius Qualified Partner"><strong>More...</strong></a>
-				    </p>
-				    		</div>
+			<h2><a href=http://intelsius.com/category/news/>Latest News</a></h2>	
+		</div>
 	</div>
 <!-- End News section -->
 <!-- Begin Blog section -->
-	<div class="small-12 medium-5 large-5 column" id="blog">
-		
-			<h2><a href="http://intelsius.com/category/blog">Blog</a></h2>				    <strong>Wednesday, April 9, 2014</strong> <br>
-				    <p>	
-				    	Meet An Employee &#8211; Steve Healy<br>
-				    	<a href="http://intelsius.com/meet-an-employee-steve-healy" rel="bookmark" title="Permanent Link to Meet An Employee &#8211; Steve Healy"><strong>More...</strong></a>
-				    </p>
-				    				    <strong>Monday, March 17, 2014</strong> <br>
-				    <p>	
-				    	Intelsius Introduces the PharmaTherm R in Luxembourg<br>
-				    	<a href="http://intelsius.com/intelsius-introduces-the-pharmatherm-r-in-luxembourg-2" rel="bookmark" title="Permanent Link to Intelsius Introduces the PharmaTherm R in Luxembourg"><strong>More...</strong></a>
-				    </p>
-				    				    <strong>Monday, February 24, 2014</strong> <br>
-				    <p>	
-				    	Meet An Employee &#8211; David Johnson<br>
-				    	<a href="http://intelsius.com/meet-an-employee-david-johnson" rel="bookmark" title="Permanent Link to Meet An Employee &#8211; David Johnson"><strong>More...</strong></a>
-				    </p>
-				    			
+	<div class="small-12 medium-5 large-5 column" id="blog">	
+			<h2><a href="http://intelsius.com/category/blog">Blog</a></h2>	
+		    			
 	</div>
 
 <!-- End Blog section -->
